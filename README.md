@@ -12,7 +12,8 @@ My humble attempt at wind-rejection. This "repo" contains hand-written notes and
 Attempting to bridge the gap between the brainstormed notes and the real-world system:
    - See https://www.notion.so/Wind-Rejection-with-PX4-1e5671e803e780c99f48d51ce157f210
 
-For a review of PX4 MC control architecture, here's a tad bit more elaborate flow-diagram of the cascaded PID architecture (hope it helps): https://www.notion.so/PX4-MultiCopter-Control-Architecture-1e5671e803e7801ab56af88aeb494039
+For a review of PX4 MC control architecture, here's a tad bit more elaborate flow-diagram of the cascaded PID architecture (hope it helps): 
+   - https://www.notion.so/PX4-MultiCopter-Control-Architecture-1e5671e803e7801ab56af88aeb494039
 
 # Assumptions
 The 
