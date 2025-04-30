@@ -15,8 +15,5 @@ Attempting to bridge the gap between the brainstormed notes and the real-world s
 For a review of PX4 MC control architecture, here's a tad bit more elaborate flow-diagram of the cascaded PID architecture (hope it helps): 
    - https://www.notion.so/PX4-MultiCopter-Control-Architecture-1e5671e803e7801ab56af88aeb494039
 
-# Assumptions
-The 
-
 # Acknowledgement
 I owe acknowledgement to Dr. Ryan Hoover's and Dr. Kenji Shimada's mentorship at CMU, Dr. Zac Manchester's and Dr. Mark Bedillion's class notes, Prof. Sabat Anwar's 12th grade physics mentorship and my industry work tenure at Brookhurst Garage, Inc. since 2022.
